@@ -14,7 +14,7 @@ Wystarczy, że zainstalujesz odpowiednia bibliotekę na Twojej stronie www (kod 
 
 * Tu znajduje się opis [biblioteki PHP Sugestera](https://github.com/sugester/sugester_php)
 * Tu znajduje się opis [biblioteki Ruby Sugestera](https://github.com/sugester/sugester_ruby)
-* Tu znajduje się opis [biblioteki Javascirpt Sugestera](https://github.com/sugester/sugester_javascript)
+* Tu znajduje się opis [biblioteki Javascript Sugestera](https://github.com/sugester/sugester_javascript)
 
 
 ## Szablony
