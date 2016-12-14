@@ -9,8 +9,8 @@ Tu znajduje się opis [API Sugestera](https://github.com/sugester/API)
 
 ## Zbieranie danych o działaniach klientów
 
-Sugester umożliwia zbieranie dancych o działaiach Twoich klientów na Twoich stronach www, aplikacjach i systemach. 
-Wystarczy, że zainstalujesz odpowiednia bibliotekę na Twojej stronie www (kod Javascript) lub wewnąrz Twojej aplikacji (aktualnie dostępne są biblioteki do języków PHP i Ruby)
+Sugester umożliwia zbieranie danych o działaniach Twoich klientów na Twoich stronach www, aplikacjach i systemach. 
+Wystarczy, że zainstalujesz odpowiednia bibliotekę na Twojej stronie www (kod Javascript) lub wewnąrz Twojej aplikacji (aktualnie dostępne są biblioteki do języków PHP i Ruby) i na karcie klienta w Sugesterze zaczną pojawiać się wszystkie akcje które wykonał dany klient. Na podstawie wykonanych akcji możesz definiować automatyczne działanai, nadawaś scoring i oznaczać grupy klientów.
 
 * Tu znajduje się opis [biblioteki PHP Sugestera](https://github.com/sugester/sugester_php)
 * Tu znajduje się opis [biblioteki Ruby Sugestera](https://github.com/sugester/sugester_ruby)
