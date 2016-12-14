@@ -12,9 +12,9 @@ Tu znajduje się opis [API Sugestera](https://github.com/sugester/API)
 Sugester umożliwia zbieranie dancych o działaiach Twoich klientów na Twoich stronach www, aplikacjach i systemach. 
 Wystarczy, że zainstalujesz odpowiednia bibliotekę na Twojej stronie www (kod Javascript) lub wewnąrz Twojej aplikacji (aktualnie dostępne są biblioteki do języków PHP i Ruby)
 
-Tu znajduje się opis [biblioteki PHP Sugestera](https://github.com/sugester/sugester_php)
-Tu znajduje się opis [biblioteki Ruby Sugestera](https://github.com/sugester/sugester_ruby)
-Tu znajduje się opis [biblioteki Javascirpt Sugestera](https://github.com/sugester/sugester_javascript)
+* Tu znajduje się opis [biblioteki PHP Sugestera](https://github.com/sugester/sugester_php)
+* Tu znajduje się opis [biblioteki Ruby Sugestera](https://github.com/sugester/sugester_ruby)
+* Tu znajduje się opis [biblioteki Javascirpt Sugestera](https://github.com/sugester/sugester_javascript)
 
 
 ## Szablony
