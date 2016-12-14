@@ -16,6 +16,7 @@ Wystarczy, że zainstalujesz odpowiednia bibliotekę na Twojej stronie www (kod 
 * Tu znajduje się opis [biblioteki Ruby Sugestera](https://github.com/sugester/sugester_ruby)
 * Tu znajduje się opis [biblioteki Javascript Sugestera](https://github.com/sugester/sugester_javascript)
 
+UWAGA: dane o kientach można zbierać także przez API, jednak wymienione wyżej biblioteki są zoptymalizowane do przyjmowania setek tysięcy danych dziennie i są zalecane przy bardzo dużej ilości zbieranych danych przysyłanych do Sugestera z zewnętrznych źródeł.
 
 ## Szablony
 
